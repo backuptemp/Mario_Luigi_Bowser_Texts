@@ -1,0 +1,103 @@
+﻿<Header>
+		<entry name="MES_KGarakuta_11_kG11_ystar_01" />
+========================================
+[start4][ctrl14][ctrl11]それ [color2]アタックパーツ[color2_end][color2_end]じゃない！？[end2]
+----------------------------------------
+[ctrl14][ctrl10]クッパったら そんなものまで
+飲み込んでたのね…[end2][color2_end]
+========================================
+[start4][ctrl14][ctrl11]这个东西不是[color2]攻击部件[color2_end][color2_end]吗！？[end2]
+----------------------------------------
+[ctrl14][ctrl10]库巴那家伙连这个
+都吸进来了啊…[end2][color2_end]
+========================================
+<entryEnd>
+
+
+		<entry name="MES_KGarakuta_11_kG11_ystar_02" />
+========================================
+[start4][ctrl14]あら？ 知らない？[ctrl21]
+それは [color2]アタックパーツ[color2_end][color2_end]と 言って
+[color2_end][color2]ブラザーアタック[color2_end][color2_end]の カケラなの。[end2]
+----------------------------------------
+[ctrl14][color2_end][color2]１０[color2_end][color2_end]個にわかれた [color2_end][color2]アタックパーツ[color2_end][color2_end]を
+全部集めれば [color2_end][color2]ブラザーアタック[color2_end][color2_end]を
+使えるように なるはずよ。[end2][color2_end]
+========================================
+[start4][ctrl14]哎？你不知道吗？[ctrl21]
+这个是[color2]攻击部件[color2_end][color2_end]，
+也就是[color2_end][color2]特殊攻击[color2_end][color2_end]的碎片。[end2]
+----------------------------------------
+[ctrl14]只要把[color2_end][color2]10[color2_end][color2_end]个[color2_end][color2]攻击部件[color2_end][color2_end]全部集齐，
+就可以使用[color2_end][color2]特殊攻击[color2_end][color2_end]了。[end2][color2_end]
+========================================
+<entryEnd>
+
+
+		<entry name="MES_KGarakuta_11_kG11_ystar_03" />
+========================================
+[start4][ctrl14][color2]ブラザーアタック[color2_end][color2_end]って いうのは…[ctrl20]
+ま[ctrl21] これは 後で教えるわね。[end2][color2_end]
+========================================
+[start4][ctrl14][color2]特殊攻击[color2_end][color2_end]就是指…[ctrl20]
+算了，[ctrl21]这个以后再说吧。[end2][color2_end]
+========================================
+<entryEnd>
+
+
+		<entry name="MES_KGarakuta_11_kG11_ystar_04" />
+========================================
+[start4][ctrl14]ここに [color2]アタックパーツ[color2_end][color2_end]が
+１つあるってことは 他のいくつかも
+近くにあるかも しれないわね。[end2][color2_end]
+========================================
+[start4][ctrl14]这里有一个[color2]攻击部件[color2_end][color2_end]，也就是说
+其它部件应该也在附近。[end2][color2_end]
+========================================
+<entryEnd>
+
+
+		<entry name="MES_KGarakuta_11_kG11_ystar_05" />
+========================================
+[start4][ctrl14][ctrl11]探してみましょう！[end2]
+========================================
+[start4][ctrl14][ctrl11]找找看吧！[end2]
+========================================
+<entryEnd>
+
+
+		<entry name="MES_KGarakuta_11_KGarakuta_11_aparts_get" />
+========================================
+[start3][ctrl50][ctrl11]ガラクタスペースのアタックパーツ
+[color1][变量1][color1_end][color2_end]個目を 手に入れた！[end2]
+----------------------------------------
+[ctrl50][ctrl11]ガラクタスペースのアタックパーツは
+のこりあと [color1_end][color1][变量2][color1_end][color2_end]個だ！[end3][end2][color1_end]
+========================================
+[start3][ctrl50][ctrl11]得到了第[color1][变量1][color1_end][color2_end]个
+破烂区域的攻击部件！[end2]
+----------------------------------------
+[ctrl50][ctrl11]破烂区域的攻击部件
+还剩[color1_end][color1][变量2][color1_end][color2_end]个！[end3][end2][color1_end]
+========================================
+<entryEnd>
+
+
+		<entry name="MES_KGarakuta_11_KGarakuta_11_aparts_get_pl" />
+========================================
+[start3][ctrl50][ctrl11]ガラクタスペースのアタックパーツ
+[color1][变量1][color1_end][color2_end]個目を 手に入れた！[end2]
+----------------------------------------
+[ctrl50][ctrl11]ガラクタスペースのアタックパーツは
+のこりあと [color1_end][color1][变量2][color1_end][color2_end]個だ！[end3][end2][color1_end]
+========================================
+[start3][ctrl50][ctrl11]得到了第[color1][变量1][color1_end][color2_end]个
+破烂区域的攻击部件！[end2]
+----------------------------------------
+[ctrl50][ctrl11]破烂区域的攻击部件
+还剩[color1_end][color1][变量2][color1_end][color2_end]个！[end3][end2][color1_end]
+========================================
+<entryEnd>
+
+
+	<Footer>

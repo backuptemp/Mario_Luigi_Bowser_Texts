@@ -1,0 +1,36 @@
+﻿<Header>
+		<entry name="MES_KGarakuta_12_KGarakuta_12_aparts_get" />
+========================================
+[start3][ctrl50][ctrl11]ガラクタスペースのアタックパーツ
+[color1][变量1][color1_end][color2_end]個目を 手に入れた！[end2]
+----------------------------------------
+[ctrl50][ctrl11]ガラクタスペースのアタックパーツは
+のこりあと [color1_end][color1][变量2][color1_end][color2_end]個だ！[end3][end2][color1_end]
+========================================
+[start3][ctrl50][ctrl11]得到了第[color1][变量1][color1_end][color2_end]个
+破烂区域的攻击部件！[end2]
+----------------------------------------
+[ctrl50][ctrl11]破烂区域的攻击部件
+还剩[color1_end][color1][变量2][color1_end][color2_end]个！[end3][end2][color1_end]
+========================================
+<entryEnd>
+
+
+		<entry name="MES_KGarakuta_12_KGarakuta_12_aparts_get_pl" />
+========================================
+[start3][ctrl50][ctrl11]ガラクタスペースのアタックパーツ
+[color1][变量1][color1_end][color2_end]個目を 手に入れた！[end2]
+----------------------------------------
+[ctrl50][ctrl11]ガラクタスペースのアタックパーツは
+のこりあと [color1_end][color1][变量2][color1_end][color2_end]個だ！[end3][end2][color1_end]
+========================================
+[start3][ctrl50][ctrl11]得到了第[color1][变量1][color1_end][color2_end]个
+破烂区域的攻击部件！[end2]
+----------------------------------------
+[ctrl50][ctrl11]破烂区域的攻击部件
+还剩[color1_end][color1][变量2][color1_end][color2_end]个！[end3][end2][color1_end]
+========================================
+<entryEnd>
+
+
+	<Footer>

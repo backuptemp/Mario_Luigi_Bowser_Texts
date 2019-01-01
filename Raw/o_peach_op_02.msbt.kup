@@ -1,0 +1,79 @@
+﻿<Header>
+		<entry name="MES_OPeach_02_Opening_tut_10" />
+========================================
+[start4]是[color_green]路易基先生[color2_end][color2_end]啊！[ctrl21]
+好久不见了呢！[end2]
+----------------------------------------
+今天居然没有
+在家里看家的吗！！[end2][color2_end]
+========================================
+[start4]是[color_green]路易基先生[color2_end][color2_end]啊！[ctrl21]
+好久不见了呢！[end2]
+----------------------------------------
+今天居然没有
+在家里看家的吗！！[end2][color2_end]
+========================================
+<entryEnd>
+
+
+		<entry name="MES_OPeach_02_Opening_tut_05" />
+========================================
+[start4]马里奥先生！今天也有在
+元气满满地[color2]跳跃[color2_end][color2_end]吗？[end2]
+----------------------------------------
+[color2_end][color_red]马里奥先生[color2_end][color2_end]要按[color2_end][color_red]<btn A>[color2_end][color2_end]键跳跃！
+[color2_end][color_green]路易基先生[color2_end][color2_end]则是[color2_end][color_green]<btn B>[color2_end][color2_end]键的说！[end2][color2_end]
+========================================
+[start4]马里奥先生！今天也有在
+元气满满地[color2]跳跃[color2_end][color2_end]吗？[end2]
+----------------------------------------
+[color2_end][color_red]马里奥先生[color2_end][color2_end]要按[color2_end][color_red]<btn A>[color2_end][color2_end]键跳跃！
+[color2_end][color_green]路易基先生[color2_end][color2_end]则是[color2_end][color_green]<btn B>[color2_end][color2_end]键的说！[end2][color2_end]
+========================================
+<entryEnd>
+
+
+		<entry name="MES_OPeach_02_Opening_tut_07" />
+========================================
+[start4]要和别人搭话的时候，
+就请按[color_red]<btn A>[color2_end][color2_end]键吧。[end2][color2_end]
+========================================
+[start4]要和别人搭话的时候，
+就请按[color_red]<btn A>[color2_end][color2_end]键吧。[end2][color2_end]
+========================================
+<entryEnd>
+
+
+		<entry name="MES_OPeach_02_Opening_tut_08" />
+========================================
+[start4]如您所见，
+这里就是[color2]碧琪城堡[color2_end][color2_end]！[end2][color2_end]
+========================================
+[start4]如您所见，
+这里就是[color2]碧琦城堡[color2_end][color2_end]！[end2][color2_end]
+========================================
+<entryEnd>
+
+
+		<entry name="MES_OPeach_02_Opening_tut_09" />
+========================================
+[start4][ctrl14]喂～ 马里奥先～生！[end2]
+----------------------------------------
+太好了～！[ctrl21]有马里奥先生的话，
+一定能让我的身体变回去的～！[end2]
+----------------------------------------
+好期待啊～！
+一定要加油哦～！[end2]
+========================================
+[start4][ctrl14]喂～ 马里奥先～生！[end2]
+----------------------------------------
+太好了～！[ctrl21]有马里奥先生的话，
+一定能让我的身体变回去的～！[end2]
+----------------------------------------
+好期待啊～！
+一定要加油哦～！[end2]
+========================================
+<entryEnd>
+
+
+	<Footer>

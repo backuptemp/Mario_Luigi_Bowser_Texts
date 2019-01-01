@@ -1,0 +1,25 @@
+﻿<Header>
+		<entry name="MES_KGarakuta_04_KG04_hemoguro" />
+========================================
+[start4][ctrl14]私は ヘモグロびん的な
+[color2]セーブブロック[color2_end][color2_end]びん。[end2]
+----------------------------------------
+[ctrl14]でも しばらくしたら 消えちゃう的な
+[color2_end][color2]セーブブロック[color2_end][color2_end]びん。[end2]
+----------------------------------------
+[ctrl14][color2_end][color2]セーブ[color2_end][color2_end]したい的な？[ctrl21]
+[ctrl11][ctrl41]いいえ的な[ctrl61][ctrl41]はい的な[color2_end][ctrl21]
+========================================
+[start4][ctrl14]我是血红素中的
+[color2]保存方块[color2_end][color2_end]。[end2]
+----------------------------------------
+[ctrl14]还是过一段时间就会消失的
+[color2_end][color2]保存方块[color2_end][color2_end]。[end2]
+----------------------------------------
+[ctrl14][color2_end][color2]要保存[color2_end][color2_end]的吗？[ctrl21]
+[ctrl11][ctrl41]还是算了[ctrl61][ctrl41]当然了[color2_end][ctrl21]
+========================================
+<entryEnd>
+
+
+	<Footer>

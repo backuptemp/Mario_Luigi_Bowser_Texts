@@ -1,0 +1,52 @@
+<Header>
+		<entry name="MES_OPeach_01_Opening_tut_01" />
+========================================
+[start4]！ [color_red]マリオ[color2_end][color2_end]さん！[ctrl21]
+はやく はやく！！[end2][color2_end]
+========================================
+[start4]啊！[color_red]马里奥[color2_end][color2_end]先生！[ctrl21]
+快点快点！！[end2][color2_end]
+========================================
+<entryEnd>
+
+
+		<entry name="MES_OPeach_01_Opening_tut_02" />
+========================================
+[start4]会議ですよ！
+会議！！[ctrl21] 急いでください！[end2]
+----------------------------------------
+みなさん [color2]会議室[color2_end][color2_end]で
+マリオさんを 待っていますよ。[end2][color2_end]
+========================================
+[start4]开会呢！
+开会！[ctrl21]请快一点！[end2]
+----------------------------------------
+大家都在[color2]会议室[color2_end][color2_end]里
+等着马里奥先生呢。[end2][color2_end]
+========================================
+<entryEnd>
+
+
+		<entry name="MES_OPeach_01_Opening_tut_03" />
+========================================
+[start4]…啊。[color_green]路易基[color2_end][color2_end]
+先生也来了。[end2][color2_end]
+========================================
+[start4]…啊。[color_green]路易基[color2_end][color2_end]
+先生也来了啊。[end2][color2_end]
+========================================
+<entryEnd>
+
+
+		<entry name="MES_OPeach_01_Opening_tut_04" />
+========================================
+[start4][ctrl14][color2]会議室[color2_end][color2_end]は この奥ですよ。
+急いでください！！[end2][color2_end]
+========================================
+[start4][ctrl14][color2]会议室[color2_end][color2_end]就在里面。
+请两位快点！！[end2][color2_end]
+========================================
+<entryEnd>
+
+
+	<Footer>
